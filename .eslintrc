@@ -1,0 +1,12 @@
+{
+  "extends": "airbnb-base",
+  "rules": {
+    "semi": "off",
+    "arrow-parens": "off",
+    "one-var": "off",
+    "one-var-declaration-per-line": "off",
+    "no-extra-semi": "off",
+    "no-console": "off",
+    "object-curly-newline": "off"
+  }
+}

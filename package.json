@@ -1,0 +1,24 @@
+{
+  "name": "huru-bot",
+  "version": "1.0.0",
+  "description": "Twitter bot for complaint resolution",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ovie Okeh",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "eslint": "6.8.0",
+    "eslint-config-airbnb": "18.1.0",
+    "eslint-config-airbnb-base": "14.1.0",
+    "eslint-plugin-import": "2.20.1",
+    "eslint-plugin-jsx-a11y": "6.2.3",
+    "eslint-plugin-react": "7.19.0",
+    "eslint-plugin-react-hooks": "2.5.0"
+  },
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
